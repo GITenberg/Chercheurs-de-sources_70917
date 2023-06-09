@@ -1,5 +1,8 @@
 _repo: Chercheurs-de-sources_70917
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70917-h/images/cover.jpg
 creator:
   author:
     agent_name: Melegari, Dora
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46829
     wikipedia: https://en.wikipedia.org/wiki/Dora_Melegari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70917#Chercheurs-de-sources
 gutenberg_issued: '2023-06-06'
 identifiers:
   gutenberg: '70917'
